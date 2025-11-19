@@ -17,3 +17,6 @@
 
 ![Demo](Animation.gif)
 
+## Demo
+
+![Demo](trending_demo.gif)
