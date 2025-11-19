@@ -13,4 +13,7 @@
 - استفاده از API های جذاب
 - نمایش ترندهای GitHub
 - قابل توسعه با Python یا Web
+## Demo
+
+![Demo](Animation.gif)
 
